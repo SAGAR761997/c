@@ -7,6 +7,6 @@ int max(int x,int y){
 
 void main (void){
 	int a=100, b=200;
-	int maximum = max(a,b);             //function call
+	int maximum = max(a,b);         
 	printf("MAXIMUM IS:%d", maximum);
 }
