@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int max(int x,int y){        //function defination
-	return(x>y)?x:y;     //function defination
-}			     //function defination
+int max(int x,int y){        
+	return(x>y)?x:y;     
+}			  
 
 
 void main (void){
